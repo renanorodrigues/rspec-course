@@ -1,0 +1,15 @@
+# The order of letters:
+
+'K'
+'Z'
+'E'
+'Z'
+'E'
+'H'
+'Z'
+'B'
+'E'
+'Z'
+'B'
+'V'
+'E'
